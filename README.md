@@ -1,0 +1,1 @@
+# lotr-tcg-delete-account
